@@ -11,7 +11,14 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.1.4"
+    "next": "15.1.4",
+    "mongoose": "^8.2.0",
+    "@tensorflow/tfjs": "^4.17.0",
+    "@tensorflow/tfjs-node": "^4.17.0",
+    "next-auth": "^4.24.6",
+    "spotify-web-api-node": "^5.0.2",
+    "standardized-audio-context": "^25.3.66",
+    "tone": "^14.7.77"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -22,6 +29,7 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
-    "@eslint/eslintrc": "^3"
+    "@eslint/eslintrc": "^3",
+    "@types/spotify-web-api-node": "^5.0.11"
   }
 }
